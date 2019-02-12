@@ -1,0 +1,41 @@
+#wrapper {
+    width: 1000px;
+    border: 1px solid black;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#first {
+    width: 500px;
+    float:left; /* add this */
+    border: 1px solid red;
+}
+#second {
+    border: 1px solid green;
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+.container{
+    margin-top: 20px;
+}
+/*make it float, baby*/
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+/*Hier bin ich mir nicht ganz sicher */
+/*.row:after {*/
+    /*content: "";*/
+    /*display: table;*/
+    /*clear: both;*/
+/*}*/
+
+.listgrid-left{
+    float: left;
+    width: 80%;
+}
+.listgrid-right{
+    float: left;
+    width: 20%;
+}

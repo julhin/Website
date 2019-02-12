@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e927e2f9-292d-4960-a99b-6fd435bf7dbc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1006085994">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1030017004">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="663" />
+          <entry key="js" value="4316" />
+          <entry key="txt" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="663" />
+          <entry key="JavaScript" value="4316" />
+          <entry key="PLAIN_TEXT" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="110" value="1" />
+          <entry key="264" value="1" />
+          <entry key="312" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="8" />
+          <entry key="UNKNOWN" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-278116257">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="625" />
+          <entry key="js" value="3475" />
+          <entry key="txt" value="467" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="625" />
+          <entry key="JavaScript" value="3475" />
+          <entry key="PLAIN_TEXT" value="467" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="8" />
+          <entry key="js" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JavaScript" value="13" />
+          <entry key="UNKNOWN" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML5_app_Drinks/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4526">
+              <folding>
+                <element signature="n#!!block;n#set_to_selected_locals#0" />
+                <element signature="n#!!block;n#show_inputForm#0" />
+                <element signature="n#!!block;n#createMarker#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML5_app_Drinks/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#body#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+      <find>select</find>
+      <find>address</find>
+      <find>init</find>
+      <find>con</find>
+      <find>places_dis</find>
+      <find>radio_map</find>
+      <find>new google.maps.InfoWindow</find>
+      <find>console</find>
+      <find>Open He</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HTML5_app_Drinks/test.html" />
+        <option value="$PROJECT_DIR$/HTML5_app_Drinks/js/script.js" />
+        <option value="$PROJECT_DIR$/HTML5_app_Drinks/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1655" />
+    <option name="y" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1167" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mobilecomputing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobilecomputing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobilecomputing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobilecomputing" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML5_app_Drinks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobilecomputing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="debug&#9;ACTION&#9;ActivateDebugToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mobilecomputing/HTML5_app_Drinks/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HTML5_app_Drinks/js">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.script.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e927e2f9-292d-4960-a99b-6fd435bf7dbc" name="Default Changelist" comment="" />
+      <created>1540293474851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540293474851</updated>
+      <workItem from="1540293476754" duration="867000" />
+      <workItem from="1540295631716" duration="7092000" />
+      <workItem from="1540369345570" duration="9819000" />
+      <workItem from="1540474457449" duration="3893000" />
+      <workItem from="1540539997405" duration="17310000" />
+      <workItem from="1540599559636" duration="1244000" />
+      <workItem from="1540646755520" duration="6015000" />
+      <workItem from="1540654812749" duration="3894000" />
+      <workItem from="1540819125837" duration="13337000" />
+      <workItem from="1544578371922" duration="1534000" />
+      <workItem from="1545235522986" duration="941000" />
+      <workItem from="1546531111354" duration="9155000" />
+      <workItem from="1546696363090" duration="6509000" />
+      <workItem from="1547083136343" duration="1983000" />
+      <workItem from="1549307698611" duration="12699000" />
+      <workItem from="1549960787758" duration="2437000" />
+    </task>
+    <task id="LOCAL-00001" summary="Some work done">
+      <created>1540323225067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540323225067</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Some work done">
+      <created>1540419144758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540419144759</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nearly done">
+      <created>1540592100963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540592100964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Nearly done">
+      <created>1540600196149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540600196149</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Geocoding not working">
+      <created>1540659979237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540659979238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Currentlocation surprisingly working &#10;MArker display fixed, some work done">
+      <created>1546633477941</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546633477941</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finnaly extracted the URL for a PLace which leads me to a google websote for this place from directions are possible">
+      <created>1546666946185</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546666946185</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rather okish, Url was inserted successfully">
+      <created>1546739522694</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546739522694</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Heureka, the base Idea works">
+      <created>1546777622884</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546777622884</updated>
+    </task>
+    <task id="LOCAL-00010" summary="one problem solved, kepp going">
+      <created>1547085344210</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547085344210</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Works as intended -&gt; done&#10;&#10;list and grid have to be implemented">
+      <created>1549322039572</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549322039572</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Listgrid and LIstview removed, Help text added">
+      <created>1549323508571</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549323508571</updated>
+    </task>
+    <task id="LOCAL-00013" summary="cleanUp">
+      <created>1549963976962</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549963976962</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105985000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1608" y="-8" width="1616" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49520153" visible="true" weight="0.121673" />
+      <window_info id="Structure" order="1" sideWeight="0.5047985" side_tool="true" visible="true" weight="0.121673" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5595353" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30106485" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917467" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.05517909" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917467" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.057855926" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32913843" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984949" visible="true" weight="0.32088286" />
+      <window_info id="Structure" order="1" sideWeight="0.50150514" side_tool="true" weight="0.32088286" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4049904" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917467" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32917467" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917467" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.057855926" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Some work done" />
+    <MESSAGE value="Nearly done" />
+    <MESSAGE value="Geocoding not working" />
+    <MESSAGE value="Currentlocation surprisingly working &#10;MArker display fixed, some work done" />
+    <MESSAGE value="Finnaly extracted the URL for a PLace which leads me to a google websote for this place from directions are possible" />
+    <MESSAGE value="Rather okish, Url was inserted successfully" />
+    <MESSAGE value="Heureka, the base Idea works" />
+    <MESSAGE value="one problem solved, kepp going" />
+    <MESSAGE value="Works as intended -&gt; done&#10;&#10;list and grid have to be implemented" />
+    <MESSAGE value="Listgrid and LIstview removed, Help text added" />
+    <MESSAGE value="cleanUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanUp" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhs4LR3vTMVJXN1q_M16sdp0JUPPrY0ng&amp;libraries=places">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="https://maps.googleapis.com/maps-api-v3/api/js/35/7/places_impl.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="http://localhost:63342/mobilecomputing/HTML5_app_Drinks/js/script.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML5_app_Drinks/mainFile.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML5_app_Drinks/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4526">
+          <folding>
+            <element signature="n#!!block;n#set_to_selected_locals#0" />
+            <element signature="n#!!block;n#show_inputForm#0" />
+            <element signature="n#!!block;n#createMarker#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML5_app_Drinks/js/test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML5_app_Drinks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

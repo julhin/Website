@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/js/script.js" line="154" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6311d36-c3a5-4cb1-88be-124a58fe1f96" name="Default" comment="List of results is emptied before each search">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5796">
+              <caret line="322" column="23" selection-start-line="322" selection-start-column="23" selection-end-line="322" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#!!block;n#listView#0" />
+                <element signature="n#!!block;n#gridView#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2394">
+              <caret line="140" column="23" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#body#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainFile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="122" selection-start-line="21" selection-end-line="21" selection-end-column="122" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>locationsto</find>
+      <find>options_row</find>
+      <find>alert</find>
+      <find>locatio</find>
+      <find>nearby</find>
+      <find>conso</find>
+      <find>sho</find>
+      <find>consol</find>
+      <find>show_map</find>
+      <find>console</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/test.js" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/mainFile.html" />
+        <option value="$PROJECT_DIR$/drinks/Options.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="767" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML5_app_Drinks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5_app_Drinks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML5_app_Drinks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5_app_Drinks" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML5_app_Drinks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drinks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5_app_Drinks/test.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6311d36-c3a5-4cb1-88be-124a58fe1f96" name="Default" comment="" />
+      <created>1530725723635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530725723635</updated>
+      <workItem from="1530725727546" duration="4614000" />
+      <workItem from="1531930733340" duration="1735000" />
+      <workItem from="1532421068585" duration="1242000" />
+      <workItem from="1533673704162" duration="599000" />
+      <workItem from="1534198364742" duration="2272000" />
+      <workItem from="1534234605636" duration="6808000" />
+      <workItem from="1534243897735" duration="2462000" />
+      <workItem from="1534247565569" duration="877000" />
+      <workItem from="1534278469194" duration="10231000" />
+      <workItem from="1534371811876" duration="599000" />
+      <workItem from="1534945083695" duration="268000" />
+      <workItem from="1534945378024" duration="76000" />
+      <workItem from="1534945476506" duration="11996000" />
+      <workItem from="1534970399855" duration="4149000" />
+      <workItem from="1536913239239" duration="911000" />
+      <workItem from="1537268194070" duration="6378000" />
+      <workItem from="1537525184401" duration="587000" />
+      <workItem from="1539779916429" duration="277000" />
+      <workItem from="1539790377339" duration="1233000" />
+      <workItem from="1539865611490" duration="236000" />
+      <workItem from="1540051270041" duration="2241000" />
+      <workItem from="1540055811420" duration="3724000" />
+      <workItem from="1540119336403" duration="56000" />
+      <workItem from="1540120454544" duration="62000" />
+      <workItem from="1540129710958" duration="5668000" />
+      <workItem from="1540203100101" duration="4094000" />
+      <workItem from="1540213596367" duration="13698000" />
+      <workItem from="1540721359948" duration="6997000" />
+      <workItem from="1540766934316" duration="747000" />
+      <workItem from="1540816700454" duration="747000" />
+      <workItem from="1540818967403" duration="37000" />
+      <workItem from="1543663052651" duration="2765000" />
+      <workItem from="1543868003781" duration="958000" />
+      <workItem from="1543925887235" duration="14593000" />
+      <workItem from="1543944551365" duration="238000" />
+      <workItem from="1544086533369" duration="5062000" />
+      <workItem from="1544100066727" duration="12111000" />
+      <workItem from="1544535989932" duration="4966000" />
+      <workItem from="1544620899862" duration="2214000" />
+      <workItem from="1545834420474" duration="1881000" />
+      <workItem from="1546124964516" duration="3226000" />
+      <workItem from="1546269404392" duration="7094000" />
+      <workItem from="1546936912629" duration="8246000" />
+      <workItem from="1546951152467" duration="2930000" />
+      <workItem from="1547214546698" duration="28000" />
+      <workItem from="1548581764852" duration="698000" />
+      <workItem from="1548758150488" duration="599000" />
+      <workItem from="1548858269479" duration="1841000" />
+      <workItem from="1549289252473" duration="552000" />
+    </task>
+    <task id="LOCAL-00001" summary="script.js added , more testing done">
+      <created>1530725799399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530725799399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some cleanup, focus on map">
+      <created>1530726286625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530726286625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new beginning, building the html site, no serous coding done">
+      <created>1530730334938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530730334938</updated>
+    </task>
+    <task id="LOCAL-00004" summary="google api key in lain html &#10;TODO: outsource the script parts to js file">
+      <created>1531934911171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531934911171</updated>
+    </task>
+    <task id="LOCAL-00005" summary="viel weiter gemacht">
+      <created>1534293618576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534293618576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="basic functionailty done, a lot of fine tuning to be done">
+      <created>1534957772314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534957772315</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aler tmsg deleted">
+      <created>1536919506292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536919506292</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aler tmsg deleted">
+      <created>1539809426379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539809426379</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removed api key before push to github">
+      <created>1539865768692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539865768692</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Umodeling">
+      <created>1540055701085</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540055701085</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Options seperated to another page">
+      <created>1540058465878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540058465879</updated>
+    </task>
+    <task id="LOCAL-00012" summary="small additions">
+      <created>1540059259656</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540059259656</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Options menu done, address field hides when radio is checked and shows if unchecked">
+      <created>1540136250739</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540136250739</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Clean up of the HTML page&#10;&#10;clean up of the code">
+      <created>1540218830084</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540218830085</updated>
+    </task>
+    <task id="LOCAL-00015" summary="worked further on the code">
+      <created>1540223772567</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540223772567</updated>
+    </task>
+    <task id="LOCAL-00016" summary="RAAAAH, It rages me up">
+      <created>1540228517315</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540228517315</updated>
+    </task>
+    <task id="LOCAL-00017" summary="A little breakthrough">
+      <created>1540728047659</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540728047659</updated>
+    </task>
+    <task id="LOCAL-00018" summary="more code written">
+      <created>1540729460093</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1540729460093</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Should be working fine, hopefully">
+      <created>1540768824291</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540768824291</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Shwon results problem solved">
+      <created>1540817445119</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1540817445119</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Some hotfixes&#10;custome location should be now working correctly">
+      <created>1543868282467</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1543868282467</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed, that the current location is only used when the option is checked and the user searches for close locations">
+      <created>1543868954063</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1543868954063</updated>
+    </task>
+    <task id="LOCAL-00023" summary="After merge">
+      <created>1543927371554</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1543927371556</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixed, that for both (current and custom location) the showing of results works right">
+      <created>1543937698385</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1543937698385</updated>
+    </task>
+    <task id="LOCAL-00025" summary="list and map option added, not functional currently">
+      <created>1543939654039</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1543939654039</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Directions problem solve is about to happen">
+      <created>1543944775335</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1543944775335</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Everything working, method to calculate which results are shown have to be reviewed">
+      <created>1544093033103</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1544093033103</updated>
+    </task>
+    <task id="LOCAL-00028" summary="First steps for the list grid view">
+      <created>1544108248983</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1544108248984</updated>
+    </task>
+    <task id="LOCAL-00029" summary="radio button selected option is a unsolved issue&#10;Build grid list have to be done">
+      <created>1544115267420</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544115267420</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Maybe a solution for the dynamic listgrid">
+      <created>1544551022761</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1544551022761</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Some work done, no milestone reached">
+      <created>1544623110362</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1544623110362</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Distinction between mobile and Desktop done, Listgrid have to be better implemented">
+      <created>1546946446143</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1546946446143</updated>
+    </task>
+    <task id="LOCAL-00034" summary="List works rather fine, switch between list and map does not work correctly">
+      <created>1546952925562</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1546952925562</updated>
+    </task>
+    <task id="LOCAL-00035" summary="After push">
+      <created>1548581973986</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548581973986</updated>
+    </task>
+    <task id="LOCAL-00036" summary="List of results is emptied before each search">
+      <created>1548864000786</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1548864000787</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165387000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4852547" visible="true" weight="0.29403973" />
+      <window_info id="Structure" order="1" sideWeight="0.5147453" side_tool="true" visible="true" weight="0.29403973" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49933863" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09115282" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6728477" weight="0.26407507" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.074122235" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49867725" weight="0.32707775" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3271523" side_tool="true" weight="0.3069705" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49933863" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48793566" visible="true" weight="0.29403973" />
+      <window_info id="Structure" order="1" sideWeight="0.51206434" side_tool="true" visible="true" weight="0.29403973" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49933863" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09115282" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6728477" weight="0.26407507" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.074122235" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49867725" weight="0.32707775" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3271523" side_tool="true" weight="0.3069705" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49933863" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Options seperated to another page" />
+    <MESSAGE value="small additions" />
+    <MESSAGE value="Options menu done, address field hides when radio is checked and shows if unchecked" />
+    <MESSAGE value="Clean up of the HTML page&#10;&#10;clean up of the code" />
+    <MESSAGE value="worked further on the code" />
+    <MESSAGE value="RAAAAH, It rages me up" />
+    <MESSAGE value="A little breakthrough" />
+    <MESSAGE value="more code written" />
+    <MESSAGE value="Should be working fine, hopefully" />
+    <MESSAGE value="Shwon results problem solved" />
+    <MESSAGE value="Some hotfixes&#10;custome location should be now working correctly" />
+    <MESSAGE value="Fixed, that the current location is only used when the option is checked and the user searches for close locations" />
+    <MESSAGE value="After merge" />
+    <MESSAGE value="fixed, that for both (current and custom location) the showing of results works right" />
+    <MESSAGE value="list and map option added, not functional currently" />
+    <MESSAGE value="Directions problem solve is about to happen" />
+    <MESSAGE value="Everything working, method to calculate which results are shown have to be reviewed" />
+    <MESSAGE value="First steps for the list grid view" />
+    <MESSAGE value="radio button selected option is a unsolved issue&#10;Build grid list have to be done" />
+    <MESSAGE value="Maybe a solution for the dynamic listgrid" />
+    <MESSAGE value="Some work done, no milestone reached" />
+    <MESSAGE value="Distinction between mobile and Desktop done, Listgrid have to be better implemented" />
+    <MESSAGE value="List works rather fine, switch between list and map does not work correctly" />
+    <MESSAGE value="After push" />
+    <MESSAGE value="List of results is emptied before each search" />
+    <option name="LAST_COMMIT_MESSAGE" value="List of results is emptied before each search" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/KIT/MobileComputing/Uebungen/Web-Technologien/Example4 (Video)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="81" column="16" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/KIT/MobileComputing/Uebungen/Web-Technologien/Example4 (Video)/js/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.min.js" />
+    <entry file="file://$PROJECT_DIR$/drinks/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/drinks/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11772">
+          <caret line="678" selection-start-line="678" selection-end-line="678" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drinks/Options.html" />
+    <entry file="file://$USER_HOME$/Documents/Prsönliches/Pathfinder/Regelwerke/pathfinder/pathfinderprd/grundregelwerk/zauber/nahrungundwasserreinigen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Prsönliches/Pathfinder/Regelwerke/pathfinder/pathfinderprd/grundregelwerk/magie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6696" />
+      </provider>
+    </entry>
+    <entry file="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhs4LR3vTMVJXN1q_M16sdp0JUPPrY0ng&amp;libraries=places">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="122" selection-start-line="21" selection-end-line="21" selection-end-column="122" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="140" column="23" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5796">
+          <caret line="322" column="23" selection-start-line="322" selection-start-column="23" selection-end-line="322" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#listView#0" />
+            <element signature="n#!!block;n#gridView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
